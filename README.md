@@ -1,2 +1,1 @@
-# GitHub-repository
-print("hello world") 
+This is Lewis's first git repository
