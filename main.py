@@ -9,3 +9,11 @@ for i in range(100):
     print("Fizz")
   else:
     print(i)
+
+for e in range (10):
+  if e % 2 == 0:
+    print("cool")
+  elif e % 1 == 0:
+    print("nice")
+  else:
+    print(e)
